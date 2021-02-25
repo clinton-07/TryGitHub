@@ -13,7 +13,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import utility.DriverSetup;
 
-public class Contactform {
+public class Contact_form {
 	WebDriver driver;
 	public List <List<String>> input;
 
